@@ -1,4 +1,4 @@
-# FOUD: Um Framework Oportunístico e Ciente de Contextopara Upload de Dados Corporativos
+# FOUD: Um Framework Oportunístico e Ciente de Contexto para Upload de Dados Corporativos
 
 Diversas organizacoes precisam coletar dados onde o acesso a Internet ́e comprometido. Perıcias, levantamentos  topograficos, mineracoes, reportagens, estudos biológicos e fisca-lizacoes ambientais sao exemplos destas atividades, que na maioria das vezes sao realizadas em zonas rurais, onde a tecnologia de rede sem fio nao funciona ou funciona com alcance reduzido.  Dessa maneira, os dados obtidos, e que normalmente precisam ser enviados para um servidor central, podem chegar com atraso e/ou erros.
 
