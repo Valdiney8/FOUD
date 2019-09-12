@@ -9,5 +9,5 @@ Este trabalho apresenta uma alternativa que retem os dados até a disponibilidad
 
 
 
-![](./script.pdf)
+![](./roteiro.png)
 
