@@ -8,3 +8,5 @@ Este trabalho apresenta uma alternativa que retem os dados até a disponibilidad
 
 ![Alt](./script.pdf){width=100% height=400}
 
+![Image Title](./script.pdf){width=75%}.
+
