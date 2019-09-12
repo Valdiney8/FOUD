@@ -1,4 +1,4 @@
-﻿## FOUD: Um *Framework* Oportunístico e Ciente de Contexto para Upload de Dados Corporativos
+﻿### FOUD: Um *Framework* Oportunístico e Ciente de Contexto para Upload de Dados Corporativos
 
 
 Diversas organizações precisam coletar dados onde o acesso a Internet é comprometido. Perícias, levantamentos topográficos, atividades minerárias, reportagens, estudos biológicos e fiscalizações ambientais são apenas alguns exemplos destas atividades, por regra realizadas em zonas rurais, onde o alcance da tecnologia de rede sem fio é reduzido.
@@ -9,5 +9,5 @@ Este trabalho apresenta uma alternativa que retem os dados até a disponibilidad
 
 
 
-![   Roteiro para funcionamento do FOUD](./script.pdf)
+![](./script.pdf)
 
